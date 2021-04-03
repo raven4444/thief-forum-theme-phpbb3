@@ -1,0 +1,39 @@
+/* --------------------------------------------------------------
+	$Custom thief css
+-------------------------------------------------------------- */
+
+/*zmiana koloru nicku autora tematu na spisie tematów*/
+.topic-poster .username {
+    color: #ccc;
+}
+
+/*wykres ankiety */
+.pollbar1 {
+	background-color: #1e497b;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+}
+
+.pollbar2 {
+	background-color: #1e497b;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+}
+
+.pollbar3 {
+	background-color: #1e497b;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+}
+
+.pollbar4 {
+	background-color: #1e497b;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+}
+
+.pollbar5 {
+	background-color: #1e497b;
+	border-bottom-color: transparent;
+	border-right-color: transparent;
+}
