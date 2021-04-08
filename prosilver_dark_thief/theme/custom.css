@@ -37,3 +37,12 @@
 	border-bottom-color: transparent;
 	border-right-color: transparent;
 }
+
+/*dynamiczny spoiler*/
+.spoiler{ 
+  color: #b4bac0 !important; 
+  background-color: #b4bac0 !important;
+}
+.spoiler:hover { 
+  background-color: #242a36 !important; 
+}
