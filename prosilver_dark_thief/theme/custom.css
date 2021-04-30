@@ -40,9 +40,21 @@
 
 /*dynamiczny spoiler*/
 .spoiler{ 
-  color: #b4bac0 !important; 
-  background-color: #b4bac0 !important;
+  	color: #b4bac0 !important; 
+  	background-color: #b4bac0 !important;
 }
 .spoiler:hover { 
-  background-color: #242a36 !important; 
+  	background-color: #242a36 !important; 
+}
+
+/*szerokosc strony*/
+.wrap {
+	max-width: 1440px;
+}
+
+/*przesunięcie na lewo etykiety autora w widoku tematu*/
+.postprofile {
+	float: left;
+	border-width: 0 1px 0 0;
+	margin: 5px 10px 10px 0;
 }
